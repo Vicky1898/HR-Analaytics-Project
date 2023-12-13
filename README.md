@@ -1,5 +1,6 @@
 # HR-Analaytics-Project
 The primary focus of this project is to explore and visualize the relationship between employee attrition rate and impact on employee performance.
+
 Tool used : Tableau
 
 Following tasks are performed
